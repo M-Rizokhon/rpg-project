@@ -103,7 +103,7 @@ Your gold: 25
   - AI-driven enemy behaviors (e.g., decision trees).
 
 ## About the Developer
-This project was developed by Muhammad Rizohon as a freshman-year project to demonstrate C++ programming skills and game design. It reflects self-learning of advanced C++ features (e.g., `mt19937`, `chrono`) and a passion for creating interactive applications. I am preparing for a Master’s in Computer Science at MIT and aim to build on this project with more complex algorithms and systems.
+This project was developed by Muhammad Rizohon as a freshman-year project to demonstrate C++ programming skills and game design. It reflects self-learning of advanced C++ features (e.g., `mt19937`, `chrono`) and a passion for creating interactive applications. 
 
 ## License
 This project is unlicensed and intended for educational purposes. Feel free to explore, modify, or extend the code!
