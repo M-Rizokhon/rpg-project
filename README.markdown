@@ -29,7 +29,7 @@ This is a text-based Role-Playing Game (RPG) developed in C++ as a freshman-year
 2. Ensure you have a C++ compiler installed (e.g., `g++`).
 3. Compile the code using the following command:
    ```bash
-   g++ -std=c++17 main.cpp -o rpg_game
+   g++ -std=c++17 Source.cpp -o rpg_game
    ```
 4. Run the executable:
    ```bash
